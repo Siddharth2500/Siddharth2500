@@ -119,14 +119,14 @@
 <h3 align="center">📫 Contact Me</h3>
 <p align="center">
   I’m always open to connecting with like-minded professionals.<br/>
-  <a href="mailto:your.email@example.com">Email</a> •
-  <a href="https://www.linkedin.com/in/your-linkedin-id/">LinkedIn</a> •
+  <a href="mailto:siduk2500@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/siddharth-raut-/">LinkedIn</a> •
   <a href="https://github.com/Siddharth2500">GitHub</a>
 </p>
 
 <!-- 👥 VISITOR COUNTER -->
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Siddharth2500/count.svg" alt="Profile Visitor Counter" />
+  <img src="https://komarev.com/ghpvc/?username=Siddharth2500&label=Profile%20Visitors&color=0e75b6&style=flat" alt="Profile Visitor Counter" />
 </p>
 
 <!-- 🌊 WAVY FOOTER -->
