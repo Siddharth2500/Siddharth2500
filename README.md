@@ -30,21 +30,19 @@ Tools: AWS, Docker, Kubernetes, Terraform, Jenkins
 ## 📊 GitHub Stats
 
 <p align="center">
-
 <img height="170"
 src="https://github-readme-stats-sigma-five.vercel.app/api?username=Siddharth2500&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="170"
-src="https://github-readme-streak-stats.herokuapp.com/?user=Siddharth2500&theme=tokyonight&hide_border=true"/>
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Siddharth2500&theme=tokyonight&hide_border=true&cache_seconds=1"/>
 </p>
+
 
 ---
 
 ## 🌐 Most Used Languages
 
 <p align="center">
-
 <img height="170"
 src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Siddharth2500&layout=compact&theme=tokyonight&hide_border=true"/>
 
