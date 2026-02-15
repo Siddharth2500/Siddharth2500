@@ -33,8 +33,17 @@ Tools: AWS, Docker, Kubernetes, Terraform, Jenkins
 <img height="170"
 src="https://github-readme-stats-sigma-five.vercel.app/api?username=Siddharth2500&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
+<!-- ======================= -->
+<!--      GitHub Streak     -->
+<!-- ======================= -->
+
+<h2 align="center">🔥 Current Streak</h2>
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Siddharth2500&theme=tokyonight&hide_border=true&cache_seconds=1"/>
+  <img 
+    src="https://streak-stats.demolab.com?user=Siddharth2500&theme=tokyonight&hide_border=true&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF&cache_seconds=3600" 
+    alt="GitHub Streak"
+  />
 </p>
 
 
